@@ -13,9 +13,9 @@
 
 <h2 align="center">Tools</h2>
 
-         - :white_check_mark: HTML
-         - :white_check_mark: CSS
-         - :white_check_mark: JAVASCRIPT
+ - :white_check_mark: HTML
+- :white_check_mark: CSS
+- :white_check_mark: JAVASCRIPT
  
 
 <img src="https://github.com/raphmello/orphanage-visit-webapp/blob/master/public/images/homepage.png" align="center">
