@@ -1,19 +1,22 @@
 <p align="center">
 <img src="https://github.com/raphmello/orphanage-visit-webapp/blob/master/public/images/logo-icon.png" width="10%">
  </p> 
-<h1 align="center"> :grinning: Happy App </h1>
-<h2 align="center"> :house: orphanage-visit-webapp </h2>
+<h1 align="center"> :grinning: Happy App</h1>
+<h2 align="center"> :house: orphanage-visit-webapp</h2>
 
 <p align="center">
 :memo: Application for listing the orphanages of your geographic region and encourage people to visit the children!
+</p>
+<p align="center">
 :pencil2: Developed at Next Level Week from Rocketseat!
 </p>
- 
 
-Tools:
+<h2 align="center">Tools</h2>
+<p align="center">
 - [x] HTML
 - [x] CSS
 - [x] JAVASCRIPT
+ </p>
 
 <img src="https://github.com/raphmello/orphanage-visit-webapp/blob/master/public/images/homepage.png" align="center">
 
