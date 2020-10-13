@@ -1,14 +1,14 @@
-<h1> Happy App </h1>
-<h2> orphanage-visit-webapp </h2>
-<h3> Application in development </h3>
+<h1> :grinning: Happy App </h1>
+<h2> :house: orphanage-visit-webapp </h2>
+<h3> Application in Development </h3>
 
-> Application for listing the orphanages of your geographic region and encourage people to visit the children!
+> :memo: Application for listing the orphanages of your geographic region and encourage people to visit the children!
+> :pencil2: Developed at Next Level Week from Rocketseat!
 
-- [x] Acelerando sua evolução
-- [ ] Olhando as oportunidades
-- [ ] A escolha da stack
-- [ ] Até 2 anos em 2 meses
-- [ ] A milha extra
+Tools:
+- [x] HTML
+- [x] CSS
+- [x] JAVASCRIPT
 
 
-[LinkedIn](linkedin.com/in/raphaeldemello/)
+[Raphael de Mello - LinkedIn](linkedin.com/in/raphaeldemello/)
