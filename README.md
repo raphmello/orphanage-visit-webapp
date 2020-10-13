@@ -3,9 +3,9 @@
  </p> 
 <h1> :grinning: Happy App </h1>
 <h2> :house: orphanage-visit-webapp </h2>
-<h3> Application in Development </h3>
 
 > :memo: Application for listing the orphanages of your geographic region and encourage people to visit the children!
+
 > :pencil2: Developed at Next Level Week from Rocketseat!
 
 Tools:
