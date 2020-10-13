@@ -1,3 +1,6 @@
+<p align="center">
+<img src="https://github.com/raphmello/orphanage-visit-webapp/blob/master/public/images/logo-icon.png" width="10%">
+ </p> 
 <h1> :grinning: Happy App </h1>
 <h2> :house: orphanage-visit-webapp </h2>
 <h3> Application in Development </h3>
