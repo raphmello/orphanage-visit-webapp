@@ -1,0 +1,25 @@
+{
+  "name": "nlw",
+  "version": "1.0.0",
+  "description": "<p align=\"center\">\r <img src=\"https://github.com/raphmello/orphanage-visit-webapp/blob/master/public/images/logo-icon.png\" width=\"10%\">\r  </p> \r <h1 align=\"center\"> :grinning: Happy App</h1>\r <h2 align=\"center\"> :house: orphanage-visit-webapp</h2>",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon src/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raphmello/orphanage-visit-webapp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/raphmello/orphanage-visit-webapp/issues"
+  },
+  "homepage": "https://github.com/raphmello/orphanage-visit-webapp#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "hbs": "^4.1.1",
+    "nodemon": "^2.0.5"
+  }
+}
