@@ -86,3 +86,16 @@ function toggleSelect(event) {
 
 
 }
+
+function validate(event) {
+
+const lat = document.querySelector('[name = lat]').value;
+const lng = document.querySelector('[name = lng]').value;
+if(lat == "" && lng == "") {
+    event.preventDefault();
+    alert("Favor escolher uma localização no mapa");
+}    
+
+// salvar um orfanato
+
+}
