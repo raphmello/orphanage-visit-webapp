@@ -5,9 +5,11 @@ const options = {
   scrollWheelZoom: false,
   zoomControl: false,
 };
-
+// get values from html
+const spanLat = document.querySelector('span[data-lat]');
+const spanLng = document.querySelector('span[data-lng]');
 // create map
-const map = L.map("mapid", options).setView([-23.9991, -46.4133], 16);
+const map = L.map("mapid", options).setView([spanLat.dataset.lat, spanLng.dataset.lng], 16);
 
 // create and add tileLayer
 L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png").addTo(map);
@@ -21,7 +23,7 @@ const icon = L.icon({
 });
 
 // create and add marker
-L.marker([-23.9991, -46.4133], { icon }).addTo(map);
+L.marker([spanLat.dataset.lat, spanLng.dataset.lng], { icon }).addTo(map);
 
 /* image gallery */
 
